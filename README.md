@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **prashaprashanth02@gmail.com**
 
-- - 📄 Know about my experiences [https://drive.google.com/drive/my-drive](https://drive.google.com/drive/my-drive)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1z9_B-wQ_e1iiZHeOcozScIyqHDL3DP5x/view](https://drive.google.com/file/d/1z9_B-wQ_e1iiZHeOcozScIyqHDL3DP5x/view)
 
 - ⚡ Fun fact **I think I am funny**
 
