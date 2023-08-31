@@ -4,6 +4,9 @@
 <h3 align="center">A passionate Frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasha02&label=Profile%20views&color=0e75b6&style=flat" alt="prasha02" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prasha02" alt="prasha02" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [agua stay fit](https://www.rosettesmartbottles.com/)
 
@@ -12,6 +15,8 @@
 - 💬 Ask me about **App and Web Development**
 
 - 📫 How to reach me **prashaprashanth02@gmail.com**
+
+- - 📄 Know about my experiences [https://drive.google.com/drive/my-drive](https://drive.google.com/drive/my-drive)
 
 - ⚡ Fun fact **I think I am funny**
 
