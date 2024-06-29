@@ -1,4 +1,3 @@
-
 <h1 align="left">Hi 👋,Guyzz</h1>
 <img src="https://user-images.githubusercontent.com/9150374/276255500-54637125-5086-4cdb-b636-8b3cf9fe71d0.png" alt="prasha02" />
 <h1 align="center">I'm Prashanth D</h1>
@@ -9,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [agua stay fit](https://www.rosettesmartbottles.com/)
+- 🔭 I’m currently working on [Rosette Smart Life](https://www.rosettesmartbottles.com/)
 
 - 🌱 I’m currently learning **NodeJs**
 
